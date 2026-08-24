@@ -30,30 +30,6 @@ This repository contains:
 
 ---
 
-# 📂 Repository Structure
-
-```
-Python-DSA/
-│
-├── Day-01-Big-O-Arrays/
-├── Day-02-Recursion/
-├── Day-03-Recursion/
-├── Day-04-Backtracking/
-├── Day-05-Backtracking/
-├── Day-06-Backtracking/
-├── Day-07-Backtracking/
-├── Day-08-Backtracking/
-├── Day-09-Dynamic-Programming/
-├── Day-10-Dynamic-Programming/
-├── ...
-├── Day-55-Graphs/
-│
-├── Notes/
-├── CheatSheets/
-├── Practice/
-└── README.md
-```
-
 # 🎯 Repository Goals
 
 - Learn Data Structures & Algorithms from fundamentals to advanced.
@@ -67,29 +43,10 @@ Python-DSA/
 
 # 📅 Learning Plan
 
-This repository follows a **55-Day Structured Learning Path** covering:
+This repository follows a **Structured Learning Path** covering:
 
 - 📚 650+ video lessons
 - 🧩 117 coding exercises
 - 🎯 Real interview questions
 - ⚡ Big O analysis
 - 📝 Hands-on coding practice
-
-
----
-
-# 📖 Learning Resource
-
-This repository is based on the Udemy course:
-
-**Master Python DSA for LEETCODE & Technical Interviews | 50-Day Structured Learning Path with 117 Coding Exercises on Udemy**
-
-Instructor: **Jackson Kailath**
-
-The course covers Python-based Data Structures & Algorithms, interview problem-solving techniques, and LeetCode-style coding challenges.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
