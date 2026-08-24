@@ -10,10 +10,13 @@ The primary goal of this repository is to strengthen my problem-solving skills, 
 
 This repository contains:
 
+- 🐍 Python Fundamentals (Basics → Advanced)
+- 🧱 Object-Oriented Programming (OOP) in Python
+- 🚀 Beginner to Advanced Python Projects
 - 📚 DSA concepts and notes
-- 💻 Python implementations
-- 🧩 Coding interview problems
 - ⚡ Time & Space Complexity analysis
+- 💻 Python implementations of data structures & algorithms
+- 🧩 Coding interview problems
 - 📝 Practice solutions
 - 🎯 LeetCode-style coding exercises
 
