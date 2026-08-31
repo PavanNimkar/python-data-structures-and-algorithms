@@ -43,8 +43,8 @@ class Dog:
         self.owner = owner
 
     def display_info(self):
-        print(f"Dog Name  : {self.name}")
-        print(f"Breed     : {self.breed}")
+        print(f"Dog Name: {self.name}")
+        print(f"Breed: {self.breed}")
         print(f"Owner     : {self.owner.name}")
         print(f"Address   : {self.owner.address}")
         print(f"Contact   : {self.owner.contact}")
